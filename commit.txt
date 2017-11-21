@@ -1,0 +1,11 @@
+commit 6f7efbcaa25afdfed6e5f50c5d1d7394a3f8824a
+Author: Farly Artunduaga <farjoar@gmail.com>
+Date:   Mon Nov 20 20:14:51 2017 -0500
+
+    se randomizo la matriz del sudoku
+
+commit 7487aa17a057f0f50751e66bceb8f71583f2d843
+Author: Farly Artunduaga <farjoar@gmail.com>
+Date:   Mon Nov 20 20:02:43 2017 -0500
+
+    Inicio
