@@ -3,7 +3,8 @@ package sudoku;
 public class Sudoku {
 
  static int N = 9;
-
+	
+ static int m = 9;
 
  static int grid[][] = 
    { { 3, 0, 6, 5, 0, 8, 4, 0, 0 }, //
